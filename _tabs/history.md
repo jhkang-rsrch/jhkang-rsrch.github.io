@@ -2,7 +2,7 @@
 title: History
 layout: page
 icon: fas fa-clock
-order: 1
+order: 2
 ---
 
 ## 2025

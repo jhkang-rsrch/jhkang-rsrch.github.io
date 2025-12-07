@@ -2,7 +2,7 @@
 title: Contact
 layout: page
 icon: fas fa-envelope
-order: 2
+order: 3
 ---
 
 ## Email
