@@ -3,16 +3,17 @@
 - type: github
   icon: "fab fa-github"
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+- type: blog
+  icon: "fas fa-blog"
+  url: "https://blog.naver.com/math_honey"
 
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
+- type: lab
+  icon: "fas fa-flask"
+  url: "https://uos-nlp.notion.site/"
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
