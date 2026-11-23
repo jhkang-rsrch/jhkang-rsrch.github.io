@@ -36,7 +36,7 @@ order: 3
 ## Affiliation
 
 [**IDA.L Lab**](https://uos-nlp.notion.site/), Department of Artificial Intelligence, Graduate School, University of Seoul  
-Advisor: [**Prof. Wonseok Hwang**](https://scholar.google.com/citations?hl=ko&user=M13_WdcAAAAJ&view_op=list_works&citft=1&email_for_op=jhkang.researcher%40gmail.com&gmla=AElLoL2jkkpFnC_iA1fEjX5d3ZzTxhlJMuovUtq_78UNpTW2NMy0ryqxR-VawiVNNxCc64KRTv0Sw1iS7-bpzMnuhocr2oHNWGD7YeUA1hJUxXJrzwKS8rcAXaCB7lhJWJFZPn198c4sWG6EzkUSVmztwcKvCwf6PgpUIbpABBtpO_jTZiBXsEpaVhP9nJq9PGhpfzCqX3eo0PA57TeY2MKAnqXvYVnFdmmXlbQUy20uH3Z_TOY2NojEJSFkzC52hdAtF1vM3aXAR5v6WArR)
+Advisor: [**Prof. Wonseok Hwang**](https://scholar.google.com/citations?user=M13_WdcAAAAJ)
 
 <small style="color: #868e96;">서울시립대학교 일반대학원 인공지능학과 자연어처리 연구실  
 지도교수: 황원석 교수</small>
